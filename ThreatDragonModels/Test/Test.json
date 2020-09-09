@@ -391,7 +391,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 13",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -425,7 +425,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 14",
+                      "text": "",
                       "font-weight": "400",
                       "font-size": "small"
                     }
